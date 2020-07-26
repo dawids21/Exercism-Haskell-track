@@ -1,4 +1,7 @@
 */test/
 */stack.yaml
+*/stack.yaml.lock
 */package.yaml
 */.exercism
+*/*.cabal
+*/.stack-work
